@@ -1,0 +1,14 @@
+.caja{
+	/*box-shadow:0 0 0.5em rgba(0,0,0,0.5);*/
+	display:flex;
+	width: 30%;
+	margin:0 auto;
+}
+.caja div{
+	box-shadow:0 0 0.5em rgba(0,0,0,0.5);
+	padding:2em;
+}
+.rumba{
+	color:orange;
+	font-size:2em;
+}
